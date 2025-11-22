@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'Static frontend application'",
+  "outputDirectory": ".",
+  "public": true,
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

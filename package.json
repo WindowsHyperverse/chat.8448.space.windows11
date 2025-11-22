@@ -1,0 +1,17 @@
+{
+  "name": "chat-space",
+  "version": "1.0.0",
+  "description": "Chat Space - Simple Invite-Based Server and Channel chatting Website with server moderation features",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "chat",
+    "messaging",
+    "real-time",
+    "websocket"
+  ],
+  "author": "Soft MIDI Player",
+  "license": "MIT"
+}
